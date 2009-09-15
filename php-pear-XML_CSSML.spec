@@ -8,7 +8,7 @@
 Summary:	%{_pearname} - methods for creating cascading style sheets (CSS)
 Name:		php-pear-%{_pearname}
 Version:	1.1.1
-Release:	%mkrel 3
+Release:	%mkrel 4
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
