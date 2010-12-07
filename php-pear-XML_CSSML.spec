@@ -6,7 +6,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.1
-Release:	%mkrel 5
+Release:	%mkrel 6
 Summary:	Methods for creating cascading style sheets (CSS)
 License:	PHP License
 Group:		Development/PHP
